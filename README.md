@@ -86,5 +86,6 @@ Create a new Pull Request
 
 For support, please open an issue in the GitHub repository or contact [your-email@example.com].
 <h2>Acknowledgments</h2>
-Thanks to the Tkinter community for the excellent GUI framework
-Icons provided by [source of your icons]
+
+*Thanks to the Tkinter community for the excellent GUI framework.
+*Icons provided by [source of your icons]
