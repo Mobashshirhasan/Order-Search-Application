@@ -1,7 +1,7 @@
 # Order-Search-Application
 A simple desktop application built with Python and Tkinter that allows users to search through order details and print the results. The application provides a user-friendly interface for searching order records stored in a text file and printing the search results.
 
-<h1>Features</h1>
+<h2>Features</h2>
 
 Search through order records using case-insensitive queries
 Real-time display of search results
@@ -9,7 +9,7 @@ Print functionality with browser-based preview
 Scrollable text area for viewing results
 Modern UI with icon-based print button
 
-<h1>Prerequisites</h1>
+<h2>Prerequisites</h2>
 Before running this application, make sure you have the following installed:
 
 Python 3.x
