@@ -70,6 +70,7 @@ Provides a print preview before printing
 
 
 <h2>Error Handling</h2>
+
 <b>The application includes error handling for:</b>
 
 Missing order detail file.<br>
