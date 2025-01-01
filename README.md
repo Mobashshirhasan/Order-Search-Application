@@ -50,9 +50,9 @@ Copyorder-search/
 ├── print_icon.png        # Print button icon
 ├── requirements.txt      # Python dependencies
 └── README.md            # This file
-<h4>How It Works</h4>
+<h2>How It Works</h2>
 
-<h1>Search Functionality:</h1>
+<h3>Search Functionality:</h3>
 
 The application reads order records from OrderDetail.txt
 Uses regular expressions for case-insensitive search
