@@ -60,7 +60,7 @@ Uses regular expressions for case-insensitive search
 Displays matching results in real-time
 
 
-<h1>Print Feature:</h1>
+<h3>Print Feature:</h3>
 
 Creates a temporary HTML file with formatted results
 Opens the default web browser for printing
@@ -68,14 +68,14 @@ Provides a print preview before printing
 
 
 
-<h1>Error Handling</h1>
+<h2>Error Handling</h2>
 The application includes error handling for:
 
 Missing order detail file
 Print operation failures
 Empty search results
 
-<h1>Contributing</h1>
+<h3>Contributing</h3>
 
 Fork the repository
 Create a new branch for your feature
@@ -83,7 +83,7 @@ Commit your changes
 Push to the branch
 Create a new Pull Request
 
-<h1>License</h1>
+<h3>License</h3>
 This project is licensed under the MIT License - see the LICENSE file for details.
 Support
 For support, please open an issue in the GitHub repository or contact [your-email@example.com].
