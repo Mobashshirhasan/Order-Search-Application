@@ -18,11 +18,11 @@ PIL (Python Imaging Library) / Pillow
 bashCopypip install Pillow
 <h1>Required Files</h1>
 
-*OrderDetail.txt - Text file containing order records
+* OrderDetail.txt - Text file containing order records
 
-.print_icon.png - Icon image for the print button
+* print_icon.png - Icon image for the print button
 
-<h1>Installation</h1>
+<h2>Installation</h2>
 
 Clone this repository:
 
