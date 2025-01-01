@@ -84,11 +84,7 @@ Commit your changes
 Push to the branch
 Create a new Pull Request
 
-<h3>License</h3>
-This project is licensed under the MIT License - see the LICENSE file for details.
-Support
 For support, please open an issue in the GitHub repository or contact [your-email@example.com].
-Acknowledgments
-
+<h2>Acknowledgments</h2>
 Thanks to the Tkinter community for the excellent GUI framework
 Icons provided by [source of your icons]
