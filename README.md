@@ -9,19 +9,19 @@ Print functionality with browser-based preview
 Scrollable text area for viewing results
 Modern UI with icon-based print button
 
-Prerequisites
+<h1>Prerequisites</h1>
 Before running this application, make sure you have the following installed:
 
 Python 3.x
 PIL (Python Imaging Library) / Pillow
 
 bashCopypip install Pillow
-Required Files
+<h1>Required Files</h1>
 
 OrderDetail.txt - Text file containing order records
 print_icon.png - Icon image for the print button
 
-Installation
+<h1>Installation</h1>
 
 Clone this repository:
 
@@ -31,7 +31,7 @@ cd order-search
 Install required dependencies:
 
 bashCopypip install -r requirements.txt
-Usage
+<h1>Usage</h1>
 
 Run the application:
 
@@ -42,7 +42,7 @@ Click the "Search" button or press Enter to search
 View results in the scrollable text area
 Click the print icon to print the current results
 
-File Structure
+<h1>File Structure</h1>
 Copyorder-search/
 │
 ├── order_search.py        # Main application file
@@ -52,14 +52,14 @@ Copyorder-search/
 └── README.md            # This file
 How It Works
 
-Search Functionality:
+<h1>Search Functionality:</h1>
 
 The application reads order records from OrderDetail.txt
 Uses regular expressions for case-insensitive search
 Displays matching results in real-time
 
 
-Print Feature:
+<h1>Print Feature:</h1>
 
 Creates a temporary HTML file with formatted results
 Opens the default web browser for printing
@@ -67,14 +67,14 @@ Provides a print preview before printing
 
 
 
-Error Handling
+<h1>Error Handling</h1>
 The application includes error handling for:
 
 Missing order detail file
 Print operation failures
 Empty search results
 
-Contributing
+<h1>Contributing</h1>
 
 Fork the repository
 Create a new branch for your feature
@@ -82,7 +82,7 @@ Commit your changes
 Push to the branch
 Create a new Pull Request
 
-License
+<h1>License</h1>
 This project is licensed under the MIT License - see the LICENSE file for details.
 Support
 For support, please open an issue in the GitHub repository or contact [your-email@example.com].
