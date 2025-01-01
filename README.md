@@ -16,7 +16,7 @@ Python 3.x
 PIL (Python Imaging Library) / Pillow
 
 bashCopypip install Pillow
-<h1>Required Files</h1>
+<h2>Required Files</h2>
 
 * OrderDetail.txt - Text file containing order records
 
@@ -32,7 +32,7 @@ cd order-search
 Install required dependencies:
 
 bashCopypip install -r requirements.txt
-<h1>Usage</h1>
+<h2>Usage</h2>
 
 Run the application:
 
