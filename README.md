@@ -50,7 +50,7 @@ Copyorder-search/
 ├── print_icon.png        # Print button icon
 ├── requirements.txt      # Python dependencies
 └── README.md            # This file
-How It Works
+<h4>How It Works</h4>
 
 <h1>Search Functionality:</h1>
 
