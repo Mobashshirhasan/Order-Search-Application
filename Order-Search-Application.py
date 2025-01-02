@@ -26,7 +26,7 @@ def search_orders(query):
 
 def print_output(output_text):
     try:
-        #  Create a temporary HTML file
+        # Create a temporary HTML file
         with tempfile.NamedTemporaryFile(delete=False, suffix=".html") as temp_file:
             temp_file_path = temp_file.name
             html_content = f"""
