@@ -7,7 +7,7 @@ Search through order records using case-insensitive queries
 Real-time display of search results
 Print functionality with browser-based preview
 Scrollable text area for viewing results
-Modern UI with icon-based print button
+Modern UI with icon-based print button.
 
 <h2>Prerequisites</h2>
 Before running this application, make sure you have the following installed:
