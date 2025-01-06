@@ -29,7 +29,7 @@ Clone this repository:
 bashCopygit clone https://github.com/yourusername/order-search.git
 cd order-search
 
-Install required dependencies:
+<b>Install required dependencies:</b>
 
 bashCopypip install -r requirements.txt
 <h2>Usage</h2>
