@@ -89,7 +89,7 @@ search_button.pack(pady=5)
 output_text = scrolledtext.ScrolledText(window, wrap=tk.WORD, width=60, height=15)
 output_text.pack(pady=5)
 
-# Add print button with image
+#  Add print button with image
 print_icon = Image.open("print_icon.png")  # Replace with your print icon image file
 print_icon = print_icon.resize((20, 20))  # Adjust size as needed
 print_photo = ImageTk.PhotoImage(print_icon)
