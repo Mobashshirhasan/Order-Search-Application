@@ -51,7 +51,7 @@ def print_output(output_text):
             """
             temp_file.write(html_content.encode('utf-8'))
 
-        # Open the temporary HTML file in the default web browser
+        #Open the temporary HTML file in the default web browser
         webbrowser.open(f"file://{temp_file_path}")
 
     except Exception as e:
