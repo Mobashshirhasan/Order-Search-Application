@@ -73,7 +73,7 @@ def on_print():
         messagebox.showinfo("Nothing to Print", "There is no output to print.")
 
 
-# --- GUI setup ---
+#  --- GUI setup ---
 window = tk.Tk()
 window.title("Order Search")
 
