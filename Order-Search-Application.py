@@ -15,7 +15,7 @@ def search_orders(query):
 
     results = []
     for order in orders:
-        if re.search(query, order, re.IGNORECASE):  # Case-insensitive search
+        if re.search(query, order, re.IGNORECASE):   # Case-insensitive search
             results.append(order.strip())
 
     if results:
