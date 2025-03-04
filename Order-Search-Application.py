@@ -8,7 +8,7 @@ import webbrowser
 
 def search_orders(query):
     try:
-        with open("OrderDetail.txt", "r") as f:   # Replace "orders.txt" with your file
+        with open("OrderDetail.txt", "r") as f:    # Replace "orders.txt" with your file
             orders = f.readlines()
     except FileNotFoundError:
         return "Error: orders.txt not found."
