@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 import tempfile
 import webbrowser
 
-def search_orders(query):
+def search_orders(query): 
     try:
         with open("OrderDetail.txt", "r") as f:   #Replace "orders.txt" with your file
             orders = f.readlines()
